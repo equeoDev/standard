@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "eslint": "~5.4.0",
-    "eslint-config-standard": "12.0.0",
+    "eslint-config-standard": "git+ssh://git@github.com/equeoDev/eslint-config-standard.git",
     "eslint-config-standard-jsx": "6.0.2",
     "eslint-plugin-import": "~2.14.0",
     "eslint-plugin-node": "~7.0.1",
